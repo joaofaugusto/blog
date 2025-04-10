@@ -5,7 +5,7 @@ title: Início
 
 # Bem-vindo
 
-Rascunhos, reflexões e fórmulas no caos.
+Verbalizando rascunhos mentais, projetos e ideias.
 
 ## Posts recentes
 
