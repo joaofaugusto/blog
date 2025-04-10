@@ -2,6 +2,7 @@
 layout: default
 title: "Apresentação"
 date: 2025-04-09
+last_modified_at: 2025-04-10
 ---
 
 Olá visitante, eu me chamo João Augusto, tenho 20 anos na data que escrevo.
@@ -10,7 +11,7 @@ Nasci numa cidade chamada Buritizeiro, localizada no norte de Minas Gerais, cerc
 
 Sou formado como técnico em informática pelo Instituto Federal do Norte de Minas Gerais - IFNMG Campus Pirapora, atualmente estou me graduando em Licenciatura em Matemática pela Universidade Federal de Minas Gerais (UFMG), estou no 3º período.
 
-A minha experiência profissional é relativamente curta, comecei como estagiário de TI em um hospital da minha cidade, auxiliando na manutenção de computadores, manutenção da rede de internet, cadastro de profissionais no sistema usado. Além junto junto do diretor do hospital nós criamos um formulário de feedback de atendimento, em que o cliente recém atendido pode responder um forms indicando pontos positivos e negativos do atendimento que o mesmo teve, podendo inclusive indicar qual(is) profissional(is) ele queria elogiar ou fazer críticas. Com esse formulário nós tivemos a chance de mapear os setores mais problemáticos do hospital e criando ferramentas e treinamentos para melhorar a eficiência do atendimento. Com esse feedback ativo e diário eu pude iniciar meus estudos na área de análise de dados.
+A minha experiência profissional é relativamente curta, comecei como estagiário de TI em um hospital da minha cidade, auxiliando na manutenção de computadores, manutenção da rede de internet, cadastro de profissionais no sistema usado. Além de junto do diretor do hospital nós criamos um formulário de feedback de atendimento, em que o cliente recém atendido pode responder um forms indicando pontos positivos e negativos do atendimento que o mesmo teve, podendo inclusive indicar qual(is) profissional(is) ele queria elogiar ou fazer críticas. Com esse formulário nós tivemos a chance de mapear os setores mais problemáticos do hospital e criando ferramentas e treinamentos para melhorar a eficiência do atendimento. Com esse feedback ativo e diário eu pude iniciar meus estudos na área de análise de dados.
 
 
 Em paralelo a esse estágio no hospital eu comecei a dar monitoria da matéria de Rede de Computadores (o qual sou apaixonado até hoje) na escola em que estudei. Nessa monitoria pude trabalhar bastante a minha didática, meu conhecimento técnico na área e até empatia por precisar entender a necessidade dos alunos, criei exercícios, formas fora do padrão para explicar o conteúdo, foi um tempo bem proveitoso.

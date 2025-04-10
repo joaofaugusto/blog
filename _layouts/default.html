@@ -1,13 +1,32 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>{{ page.title}}</title>
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
-    {% include mathjax.html %}
+    {% seo %}
 </head>
 <body>
-    <h1>{{ site.title }}</h1>
+<header>
+    <div class="container">
+        <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+        <p class="description">{{ site.description }}</p>
+        <nav>
+            <a href="{{ site.baseurl }}/">Início</a>
+            <a href="{{ site.baseurl }}/about">Sobre</a>
+        </nav>
+    </div>
+</header>
+
+<main class="container">
     {{ content }}
+</main>
+
+<footer>
+    <div class="container">
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. Todos os direitos reservados.</p>
+    </div>
+</footer>
 </body>
 </html>
