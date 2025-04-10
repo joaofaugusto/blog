@@ -11,7 +11,7 @@ title: Início
   {% for post in site.posts %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      <small>{{ post.date | date: "%d/%m/%Y" }}</small>
+      <small>Data da Publicação: {{ post.date | date: "%d/%m/%Y" }}</small>
     </li>
   {% endfor %}
 </ul>
