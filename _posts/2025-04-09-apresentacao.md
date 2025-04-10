@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Apresentação"
 date: 2025-04-09
 last_modified_at: 2025-04-10
