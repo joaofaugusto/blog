@@ -61,3 +61,35 @@ footer {
     color: #888;
     font-size: 0.9rem;
 }
+
+.post-list {
+    list-style: none;
+    padding: 0;
+    margin: 2rem 0;
+  }
+  
+  .post-list li {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .post-list a {
+    font-size: 1.25rem;
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.2s ease;
+  }
+  
+  .post-list a:hover {
+    color: #007acc;
+  }
+  
+  .post-list small {
+    display: block;
+    font-size: 0.875rem;
+    color: #666;
+    margin-top: 0.3rem;
+  }
+  
