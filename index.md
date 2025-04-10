@@ -5,8 +5,6 @@ title: Início
 
 # Bem-vindo
 
-Verbalizando rascunhos mentais, projetos e ideias.
-
 ## Posts recentes
 
 <ul>
